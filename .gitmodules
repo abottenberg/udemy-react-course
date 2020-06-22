@@ -1,0 +1,3 @@
+[submodule "my-first-app"]
+	path = my-first-app
+	url = https://github.com/abottenberg/udemy-react-course.git
